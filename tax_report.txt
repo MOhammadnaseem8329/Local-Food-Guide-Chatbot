@@ -1,0 +1,7 @@
+=========== Tax Report for Aditi ===============
+Income: ₹200000000.0
+Expenses: ₹3456879.0
+Taxable Income: ₹196543121.0
+Tax Paid (INR): ₹58700436.3
+Tax Paid (USD): $686795.1
+===============================
